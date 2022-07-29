@@ -4,7 +4,8 @@ Translator API -- Translator API is a program that is used to translate text int
 
 
 Screeshots :
-![image](https://user-images.githubusercontent.com/99761288/181835274-f54ecb95-e041-4aa2-808d-c7fccc4e5eba.png)
+![Capture](https://user-images.githubusercontent.com/99761288/181837284-67ef7aea-f7fd-49f4-9fcd-c94434ed2ad1.PNG)
+
 
 
 Technologies -- 
